@@ -102,9 +102,9 @@ app.listen(PORT, () => {
 ## Output:
 ### GET
 ![get](https://github.com/Jovita08/Task-Tracker/assets/94174503/1b037e70-a01c-4996-a3ad-bdade994518d)
-###POST
+### POST
 ![post](https://github.com/Jovita08/Task-Tracker/assets/94174503/06fccaef-7ea8-42bd-b2ea-d181a127c470)
-###UPDATE
+### UPDATE
 ![update](https://github.com/Jovita08/Task-Tracker/assets/94174503/19ab7a96-b2ad-4766-b8cd-c59313698e5a)
-###DELETE
+### DELETE
 ![del](https://github.com/Jovita08/Task-Tracker/assets/94174503/9a47090c-ce2c-4b24-81b3-736ae33037fe)
